@@ -22,6 +22,7 @@
 #include <string.h>
 #include <assert.h>
 #include <event.h>
+#include <event2/event.h>
 #include "log.h"
 #include "main.h"
 #include "utils.h"

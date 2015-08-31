@@ -2,6 +2,7 @@
 #define REDUDP_H
 
 #include <event.h>
+#include <event2/event.h>
 #include "list.h"
 
 struct redudp_client_t;

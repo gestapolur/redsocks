@@ -4,6 +4,7 @@
 #include <sys/types.h>
 #include <netinet/in.h>
 #include <event.h>
+#include <event2/event.h>
 #include "list.h"
 
 

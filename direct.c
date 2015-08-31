@@ -21,6 +21,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <event.h>
+#include <event2/event.h>
 #include "parser.h"
 #include "log.h"
 #include "main.h"

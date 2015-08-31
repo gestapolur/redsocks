@@ -32,6 +32,7 @@
 #include <errno.h>
 #include <assert.h>
 #include <event.h>
+#include <event2/event.h>
 #include "list.h"
 #include "parser.h"
 #include "log.h"
